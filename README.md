@@ -8,8 +8,3 @@ Meski Niko telah bermain Pokemon selama berbulan-bulan, Niko seringkali lupa bag
 1.	Elemen fire unggul melawan elemen grass, namun lemah melawan elemen water
 2.	Elemen water unggul melawan elemen fire, namun lemah melawan elemen grass
 3.	Elemen grass unggul melawan elemen water, namun lemah melawan elemen fire
-
-Bantulah Niko untuk membuat sebuah program yang dapat menghitung damage yang dihasilkan dari pokemon Niko kepada lawannya dengan menginputkan:
-1.	Elemen dari pokemon Niko (Fire, Water, atau Grass)
-2.	Attack dari pokemon Niko (skala 1-100)
-3.	Elemen dari pokemon lawan (Fire, Water, atau Grass)
