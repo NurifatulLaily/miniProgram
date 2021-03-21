@@ -1,5 +1,5 @@
 # miniProgram menghitung damage yang dihasilkan dari pokemon pengguna kepada lawannya
-Niko adalah seorang Pokemon trainer yang nolep. Dalam setiap harinya, dia bisa menghabiskan 10 jam untuk memainkan game Pokemon yang disukainya itu, Dalam game pokemon yang Ivan main, hanya terdapat 3 elemen, yaitu fire, water, dan grass.
+Niko adalah seorang Pokemon trainer yang nolep. Dalam setiap harinya, dia bisa menghabiskan 10 jam untuk memainkan game Pokemon yang disukainya itu, Dalam game pokemon yang Niko main, hanya terdapat 3 elemen, yaitu fire, water, dan grass.
 Dalam game Pokemon ini, terdapat keunggulan dan kekurangan masing-masing elemen. Apabila sebuah Pokemon menyerang, maka hasil damage dari serangan tersebut akan berdasarkan elemen kedua pokemon tersebut. Berikut rinciannya:
 1.	Bila Pokemon melawan elemen yang sama (cth: fire vs fire), maka damage yang dihasilkan adalah 100%
 2.	Bila Pokemon melawan elemen yang menjadi kelemahannya, maka damage yang dihasilkan melemah menjadi 50%.
